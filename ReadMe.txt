@@ -1,0 +1,3 @@
+- First, add folders 'Algorithms', 'CEC2014 functions' and 'Classical functions' to the path.
+- To compare WFS with similar algorithms just run the file 'CompareAlgorithms.m'. All settings may be adjust there.
+- Complete implementation of WFS algorithm is located in Algorithms -> 'WingsuitFlyingSearch.m'.
